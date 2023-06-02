@@ -32,7 +32,7 @@ class AopRegister implements Bootstrap
      */
     public static function start($worker)
     {
-        self::appendProxy(config('plugin.xiaoyangguang.aop.aop', []));
+        self::appendProxy(config('plugin.gaoolp.aop.aop', []));
     }
 
     /**

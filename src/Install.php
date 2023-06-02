@@ -9,7 +9,7 @@ class Install
      * @var array
      */
     protected static $pathRelation = array (
-  'config/plugin/xiaoyangguang/aop' => 'config/plugin/xiaoyangguang/aop',
+  'config/plugin/gaoolp/aop' => 'config/plugin/gaoolp/aop',
 );
 
     /**

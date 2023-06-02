@@ -5,11 +5,11 @@
 #### 安装
 
 ```
-composer require xiaoyangguang/aop
+composer require gaoolp/aop
 ```
 
-1. 配置config\plugin\xiaoyangguang\aop\aop.php文件  
-2. 自定义切入类需要实现Xiaoyangguang\Aop\AspectInterface接口并配置到以上aop配置文件中
+1. 配置config\plugin\gaoolp\aop\aop.php文件  
+2. 自定义切入类需要实现gaoolp\Aop\AspectInterface接口并配置到以上aop配置文件中
 3. 最后启动服务，并测试。
 
 
