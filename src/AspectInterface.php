@@ -4,7 +4,7 @@
  * User: zhangxiaoxiao
  */
 
-namespace Xiaoyangguang\Aop;
+namespace gaoolp\Aop;
 
 interface AspectInterface
 {

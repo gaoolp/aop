@@ -1,8 +1,8 @@
 <?php
 
-namespace Xiaoyangguang\Aop\Example;
+namespace gaoolp\Aop\Example;
 
-use Xiaoyangguang\Aop\AspectInterface;
+use gaoolp\Aop\AspectInterface;
 
 class TestAspect implements AspectInterface
 {

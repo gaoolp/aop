@@ -1,5 +1,5 @@
 <?php
-namespace Xiaoyangguang\Aop;
+namespace gaoolp\Aop;
 
 class Install
 {

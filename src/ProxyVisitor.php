@@ -4,7 +4,7 @@
  * User: zhangxiaoxiao
  */
 
-namespace Xiaoyangguang\Aop;
+namespace gaoolp\Aop;
 
 use PhpParser\Node;
 use PhpParser\Node\Expr\Array_;

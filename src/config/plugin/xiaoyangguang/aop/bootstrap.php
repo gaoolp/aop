@@ -1,4 +1,4 @@
 <?php
 return [
-    Xiaoyangguang\Aop\Bootstrap\AopRegister::class
+    gaoolp\Aop\Bootstrap\AopRegister::class
 ];
